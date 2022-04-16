@@ -1,0 +1,1 @@
+web: gunicorn jeanflix.wsgi --log-file -
